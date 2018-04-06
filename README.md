@@ -32,18 +32,18 @@ make upload
 
 [![Build Status](https://travis-ci.org/araffin/python-arduino-serial.svg?branch=master)](https://travis-ci.org/araffin/python-arduino-serial)
 
-Python repository: [https://github.com/araffin/python-arduino-serial]((https://github.com/araffin/python-arduino-serial)
+Python repository: [https://github.com/araffin/python-arduino-serial](https://github.com/araffin/python-arduino-serial)
 
 ### C++ Implementation
 
 [![Build Status](https://travis-ci.org/araffin/cpp-arduino-serial.svg?branch=master)](https://travis-ci.org/araffin/cpp-arduino-serial)
 
 
-C++ repository: [https://github.com/araffin/cpp-arduino-serial]((https://github.com/araffin/cpp-arduino-serial)
+C++ repository: [https://github.com/araffin/cpp-arduino-serial](https://github.com/araffin/cpp-arduino-serial)
 
 
 ### Rust Implementation
 
 [![Build Status](https://travis-ci.org/araffin/rust-arduino-serial.svg?branch=master)](https://travis-ci.org/araffin/rust-arduino-serial) [![Build status](https://ci.appveyor.com/api/projects/status/h0ejgesat0nnpahc/branch/master?svg=true)](https://ci.appveyor.com/project/araffin/rust-arduino-serial/branch/master)
 
-Rust repository: [https://github.com/araffin/rust-arduino-serial]((https://github.com/araffin/rust-arduino-serial)
+Rust repository: [https://github.com/araffin/rust-arduino-serial](https://github.com/araffin/rust-arduino-serial)
