@@ -1,0 +1,9 @@
+[submodule "rust-arduino-serial"]
+	path = rust-arduino-serial
+	url = https://github.com/araffin/rust-arduino-serial
+[submodule "cpp-arduino-serial"]
+	path = cpp-arduino-serial
+	url = https://github.com/araffin/cpp-arduino-serial.git
+[submodule "python-arduino-serial"]
+	path = python-arduino-serial
+	url = https://github.com/araffin/python-arduino-serial.git
