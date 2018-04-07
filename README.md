@@ -4,7 +4,7 @@
 
 **Please read the [Medium Article](https://medium.com/@araffin/simple-and-robust-computer-arduino-serial-communication-f91b95596788) to have an overview of this protocol.**
 
-Implementations are available for:
+Implementations are available in various programming languages:
 
 - Arduino (`arduino-serial/` folder)
 - [Python](https://github.com/araffin/python-arduino-serial)
@@ -47,3 +47,9 @@ C++ repository: [https://github.com/araffin/cpp-arduino-serial](https://github.c
 [![Build Status](https://travis-ci.org/araffin/rust-arduino-serial.svg?branch=master)](https://travis-ci.org/araffin/rust-arduino-serial) [![Build status](https://ci.appveyor.com/api/projects/status/h0ejgesat0nnpahc/branch/master?svg=true)](https://ci.appveyor.com/project/araffin/rust-arduino-serial/branch/master)
 
 Rust repository: [https://github.com/araffin/rust-arduino-serial](https://github.com/araffin/rust-arduino-serial)
+
+### Real Life Example
+
+This protocol was used on the Racing Robot: [https://github.com/sergionr2/RacingRobot](https://github.com/sergionr2/RacingRobot)
+
+[![The racing robot](https://cdn-images-1.medium.com/max/2000/1*UsmiJ4IzXi6U9svKjB22zw.jpeg)](https://www.youtube.com/watch?v=xhI71ZdSh6k)
