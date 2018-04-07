@@ -18,9 +18,11 @@ Implementations are available in various programming languages:
 
 Please check examples in the different repos to have the parameters details for each programming language.
 
+- `read_order()`: Read one byte from a file/serial port and convert it to an order (equivalent to read_i8)
 - `read_i8()`: Read one byte from a file/serial port and convert it to a 8 bits int
 - `read_i16()`: Read one byte from a file/serial port and convert it to a 16 bits int
 - `read_i32()`: Read one byte from a file/serial port and convert it to a 32 bits int
+- `write_order()`: Write an order to a file/serial port. (equivalent to write_i8)
 - `write_i8()`: Write one byte int to a file/serial port.
 - `write_i16()`: Write two bytes (16-bits) int to a file/serial port.
 - `write_i32()`: Write four bytes (32-bits) int to a file/serial port.
