@@ -67,3 +67,7 @@ Rust repository: [https://github.com/araffin/rust-arduino-serial](https://github
 This protocol was used on the Racing Robot: [https://github.com/sergionr2/RacingRobot](https://github.com/sergionr2/RacingRobot)
 
 [![The racing robot](https://cdn-images-1.medium.com/max/2000/1*UsmiJ4IzXi6U9svKjB22zw.jpeg)](https://www.youtube.com/watch?v=xhI71ZdSh6k)
+
+### Acknowledgment
+
+I would like to thanks Dara Ly for the original idea of communicating with the Arduino via a command parser, and Xuan Zhang for fixing Arduino limited buffer issue.
