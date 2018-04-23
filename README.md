@@ -14,6 +14,11 @@ Implementations are available in various programming languages:
 
 **Examples** are provided in each repository.
 
+To clone all the repositories at once, tou need to use the `--recursive` command:
+```
+git clone https://github.com/araffin/arduino-robust-serial.git --recursive
+```
+
 ### Provided Functions
 
 Please check examples in the different repos to have the parameters details for each programming language.
