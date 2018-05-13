@@ -35,7 +35,15 @@ Please check examples in the different repos to have the parameters details for 
 
 ### Arduino Implementation
 
-Recommended: Arduino-Makefile
+#### 1. Using Arduino IDE
+
+Open `arduino-board/slave/slave.ino` in your Arduino IDE.
+
+#### 2. Using Arduino Makefile (Recommended)
+
+This method only works with Linux/Mac Os systems: [https://github.com/sudar/Arduino-Makefile](https://github.com/sudar/Arduino-Makefile)
+
+Install Arduino Makefile.
 ```
 sudo apt-get install arduino-mk
 ```
