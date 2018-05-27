@@ -19,6 +19,20 @@ To clone all the repositories at once, tou need to use the `--recursive` command
 git clone https://github.com/araffin/arduino-robust-serial.git --recursive
 ```
 
+Table of Contents
+=================
+
+   * [Provided Functions](#provided-functions)
+   * [Arduino Implementation](#arduino-implementation)
+      * [1. Using Arduino IDE](#1-using-arduino-ide)
+      * [2. Using Arduino Makefile (Recommended)](#2-using-arduino-makefile-recommended)
+   * [Python Implementation](#python-implementation)
+   * [C   Implementation](#c-implementation)
+   * [Rust Implementation](#rust-implementation)
+   * [Real Life Example](#real-life-example)
+   * [Acknowledgments](#acknowledgments)
+
+
 ### Provided Functions
 
 Please check examples in the different repos to have the parameters details for each programming language.
