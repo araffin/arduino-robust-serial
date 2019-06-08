@@ -44,6 +44,10 @@ AVRDUDE           = /usr/local/bin/avrdude
 ### or on Linux: (remove the one you don't want)
 AVRDUDE           = /usr/bin/avrdude
 
+### AVRDUDE_CONF
+### Path to avrdude config file.
+#AVRDUDE_CONF      = /etc/avrdude.conf
+
 ### CFLAGS_STD
 ### Set the C standard to be used during compilation. Documentation (https://github.com/WeAreLeka/Arduino-Makefile/blob/std-flags/arduino-mk-vars.md#cflags_std)
 CFLAGS_STD        = -std=gnu11
